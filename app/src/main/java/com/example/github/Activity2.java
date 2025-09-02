@@ -31,7 +31,7 @@ public class Activity2 extends AppCompatActivity {
         TextView textView2 = findViewById(R.id.textView2);
         String datoRecibido = getIntent().getStringExtra("datoEnviado");
         textView2.setText("Hola " + datoRecibido + "!");
-
+//holaaa
     }
     public void back(View view){
         Intent volverMain = new Intent(this, MainActivity.class);
