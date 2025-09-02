@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHub</string>
+    <string name="buttonTxt">Enviar Nombre</string>
+    <string name="boxTxt">Nombre Aqui</string>
+    <string name="viewTxt">Ingresa tu nombre:)</string>
+    <string name="holaTxt">Hola!</string>
+</resources>
